@@ -1,0 +1,9 @@
+.common-input {
+  margin: 6px 0px;
+  height: 40px;
+  width: 100%;
+}
+.common-input > input {
+  padding: 7.5px 14px;
+  border-left: 1px solid #c4c4c4;
+}
